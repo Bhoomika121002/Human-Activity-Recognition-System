@@ -1,4 +1,4 @@
-# Human Activity Recognition 
+# Human Activity Recognition using Smart watch analysis
 Under this project one can recognize the human activities based on the dataset (available online & Manual) and classify them. Further, based on this classification, suggestions can be shared to the user to improve the lifestyle for better health. We first tested without classes later on we added classes, tested and performed encapsulation. 
 
 ## Human Activity Recognition
